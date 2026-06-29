@@ -1,0 +1,24 @@
+{
+  "heading": "Purity in Every Drop, Wisdom in Every Cure.",
+  "paragraphs": [
+    "At Anant Ayurveda, we believe that true wellness comes from aligning ourselves with the natural rhythms of the Earth. Our journey began in the lush landscapes of Kerala, where we learned the sacred art of herbal alchemy.",
+    "Every product in our showcase is crafted using traditional cold-pressed methods, ensuring that the vital life force (Prana) of each herb remains intact. We bridge the gap between 5,000-year-old scriptures and modern purity standards."
+  ],
+  "stats": {
+    "value": "25+",
+    "label": "YEARS OF EXPERTISE"
+  },
+  "badges": [
+    {
+      "id": "organic",
+      "title": "100% Organic",
+      "subtitle": "Certified natural ingredients"
+    },
+    {
+      "id": "ethical",
+      "title": "Ethically Sourced",
+      "subtitle": "Supporting local farmers"
+    }
+  ],
+  "image": "/images/yoga-sunset.png"
+}

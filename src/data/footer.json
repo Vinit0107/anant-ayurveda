@@ -1,0 +1,26 @@
+{
+  "logo": "ANANT AYURVEDA",
+  "address": "1 Silver Link , Hill Drive , Bhavnagar-364001 Contact - 9427337139",
+  "socialLinks": [
+    { "id": "instagram", "platform": "Instagram", "href": "#", "icon": "Instagram" },
+    { "id": "facebook", "platform": "Facebook", "href": "#", "icon": "Facebook" },
+    { "id": "twitter", "platform": "Twitter", "href": "#", "icon": "Twitter" }
+  ],
+  "quickLinks": [
+    { "id": "home", "label": "Home", "href": "/" },
+    { "id": "story", "label": "Our Story", "href": "/about" },
+    { "id": "products", "label": "Products", "href": "/#products" },
+    { "id": "testimonials", "label": "Testimonials", "href": "#testimonials" }
+  ],
+  "supportLinks": [
+    { "id": "shipping", "label": "Shipping Policy", "href": "/policies/shipping" },
+    { "id": "returns", "label": "Returns & Exchanges", "href": "/policies/returns" },
+    { "id": "privacy", "label": "Privacy Policy", "href": "/policies/privacy" },
+    { "id": "terms", "label": "Terms of Service", "href": "/policies/terms" }
+  ],
+  "newsletter": {
+    "heading": "NEWSLETTER",
+    "description": "Subscribe for Ayurvedic tips and offers."
+  },
+  "copyright": "© 2026 ANANT AYURVEDA. ALL RIGHTS RESERVED."
+}

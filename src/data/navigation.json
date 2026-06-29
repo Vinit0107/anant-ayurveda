@@ -1,0 +1,12 @@
+{
+  "logo": {
+    "text1": "ANANT",
+    "text2": "AYURVEDA"
+  },
+  "links": [
+    { "id": "home", "label": "HOME", "href": "/" },
+    { "id": "about", "label": "ABOUT", "href": "/about" },
+    { "id": "products", "label": "PRODUCTS", "href": "/#products" },
+    { "id": "contact", "label": "CONTACT", "href": "#contact" }
+  ]
+}

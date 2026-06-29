@@ -1,0 +1,29 @@
+[
+  {
+    "id": "aloe-vera-skin",
+    "name": "ALOE VERA GEL ( Skin )",
+    "description": "For skin beauty and to remove dark spots and wrinkles.",
+    "price": 100,
+    "image": "/images/aloe-vera-skin.png",
+    "badge": "BESTSELLER",
+    "badgeColor": "#1B7A53"
+  },
+  {
+    "id": "hair-grow-gel",
+    "name": "HAIR GROW GEL",
+    "description": "For Hair Growth And Maintain Shine Of Hair Naturally.",
+    "price": 150,
+    "image": "/images/hair-grow-gel.png",
+    "badge": "HAIR GROWTH",
+    "badgeColor": "#1B7A53"
+  },
+  {
+    "id": "aloe-vera-relief",
+    "name": "ALOE VERA GEL ( RELIEF )",
+    "description": "Traditional GEL For Relief From RHEUMATIC PAIN And SWELLING.",
+    "price": 200,
+    "image": "/images/aloe-vera-relief.png",
+    "badge": "RELIEF",
+    "badgeColor": "#1B7A53"
+  }
+]
