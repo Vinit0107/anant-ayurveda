@@ -54,7 +54,7 @@ export default function CheckoutPage() {
 
       // 2. Open Razorpay Modal
       const options = {
-        key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID || 'rzp_test_T6mlMH1qW0sPJd',
+        key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
         amount: orderData.amount,
         currency: orderData.currency,
         name: 'Anant Ayurveda',
