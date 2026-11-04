@@ -19,7 +19,7 @@ export default function BrandLogo({ className = '' }: BrandLogoProps) {
       </svg>
       <span className="flex flex-col gap-[0.3em] leading-none">
         <span className="font-playfair font-semibold tracking-[0.16em] text-[#E8DCC0]">ANANT</span>
-        <span className="text-[0.48em] font-medium tracking-[0.34em] text-[#87A07B]">AYURVEDA</span>
+        <span className="text-[0.62em] font-medium tracking-[0.22em] text-[#87A07B]">AYURVEDA</span>
       </span>
     </span>
   );
