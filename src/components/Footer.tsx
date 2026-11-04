@@ -4,6 +4,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { SendHorizonal } from 'lucide-react';
 import Link from 'next/link';
+import BrandLogo from '@/components/BrandLogo';
 import footerData from '@/data/footer.json';
 import { FooterData } from '@/types';
 
@@ -41,30 +42,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           {/* Column 1 - Logo & Contact */}
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              {/* Leaf icon */}
-              <div className="w-8 h-8 rounded-full bg-[#1B7A53] flex items-center justify-center flex-shrink-0">
-                <svg
-                  width="16"
-                  height="16"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22.25C7.76 17.08 9.9 11.42 17 8Z"
-                    fill="white"
-                  />
-                  <path
-                    d="M12.82 5.58C14.08 4.32 15.92 3.71 17.82 3.82C17.93 5.72 17.32 7.56 16.06 8.82C14.8 10.08 12.96 10.69 11.06 10.58C10.95 8.68 11.56 6.84 12.82 5.58Z"
-                    fill="white"
-                  />
-                </svg>
-              </div>
-              <span className="text-sm font-bold tracking-wide">
-                <span className="text-[#1B7A53] font-extrabold">ANANT</span>
-                <span className="text-[#1B7A53] font-normal ml-1">AYURVEDA</span>
-              </span>
+            <div className="mb-4">
+              <BrandLogo className="h-9 text-sm" />
             </div>
 
             <p className="text-gray-500 text-xs leading-relaxed">
